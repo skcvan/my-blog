@@ -1,0 +1,8 @@
+baseURL = "https://你的域名.com/"  # 暂时可以先填这个，后面改
+languageCode = "zh-cn"
+title = "我的个人博客"
+theme = "PaperMod"
+
+[params]
+    defaultTheme = "auto"
+    ShowReadingTime = true
